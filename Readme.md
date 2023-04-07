@@ -7,6 +7,10 @@
     - SteamやEpicでインストールされたAmongUsを自動検出し、そこにMOD等を自動でインストールします
   - 古いファイルの自動削除によるクリーンインストール
   
+### 各種リンク
+[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fyukieiji)](https://twitter.com/yukieiji)
+[![Discord](https://img.shields.io/discord/994790791304200252?label=Discord)](https://t.co/czLmgXLUBU)
+  
 # 利用規約
 適当に使っていただいて構いません<br>
 フォーク等で未改造やバグ修正等で使う場合は問題ないですが、改造したりやコードをパクって似たようなものを作る等は禁止です
