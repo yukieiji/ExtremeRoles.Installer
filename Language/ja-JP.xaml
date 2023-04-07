@@ -10,8 +10,8 @@
     <system:String x:Key="InstallLog">ログ：</system:String>
 
     <system:String x:Key="InstallSuccess">インストール成功！！！</system:String>
-    <system:String x:Key="InstallSuccessLocalBody">インターネット接続に問題があったため、埋め込みのバージョンをインストールしました。&#xa;「閉じるボタン」でこのダイアログを閉じることが出来ます</system:String>
-    <system:String x:Key="InstallSuccessWebBody">最新版のインストールに成功しました&#xa;「閉じるボタン」でこのダイアログを閉じることが出来ます</system:String>
+    <system:String x:Key="InstallSuccessLocalBody">インターネット接続に問題があったため、ExtremeRolesの埋込されたバージョンをインストールしました。&#xa;「閉じるボタン」でこのダイアログを閉じることが出来ます</system:String>
+    <system:String x:Key="InstallSuccessWebBody">ExtremeRolesの最新版のインストールに成功しました&#xa;「閉じるボタン」でこのダイアログを閉じることが出来ます</system:String>
     <system:String x:Key="ReleaseNotePlaceHolder">「{0}」のリリースノート：</system:String>
     <system:String x:Key="InstallError">インストールに失敗しました・・・</system:String>
     <system:String x:Key="InstallErrorBody">何らかの原因でインストールに失敗しました。&#xa;再度実行しても同様である場合yukeijiに連絡して下さい。&#xa;このダイアログは「閉じるボタン」で閉じることが出来ます</system:String>
