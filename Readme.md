@@ -3,6 +3,7 @@
 - 機能詳細
   - グラフィカルな操作によるExtremeRolesの自動ダウンロードとインストール
     - ExtremeSkisnのインストールにも対応
+    - ExtremeVoiceEngineのインストールにも対応
   - Steam版とEpic版のAmongUsの自動検出
     - SteamやEpicでインストールされたAmongUsを自動検出し、そこにMOD等を自動でインストールします
   - 古いファイルの自動削除によるクリーンインストール
